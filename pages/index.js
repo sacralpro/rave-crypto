@@ -104,7 +104,9 @@ export default function Home() {
         <meta property="og:description" content="Dive into the powerful sounds of minimal techno with this remix by Sacral DJ. Perfect for your next rave!" />
         <meta property="og:image" content="/images/back.jpg" />
         <meta property="og:url" content="https://ravers.vercel.app/" />
+        <meta name="cryptomus" content="7a392b6c" />
         <link rel="icon" href="/images/favicon.ico" />
+        
       </Head>
 
       <YandexMetrika enabled={analyticsEnabled} />
